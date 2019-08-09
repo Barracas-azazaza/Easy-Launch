@@ -1,2 +1,2 @@
 # Easy-Launch
-Sistema de Información Easy Launch para restaurantes
+Sistema de Información Easy Lunch para restaurantes
